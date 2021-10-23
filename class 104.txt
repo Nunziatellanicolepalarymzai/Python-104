@@ -1,0 +1,21 @@
+data=[1,2,3,4,5]
+mean=sum of all the numbers /5
+
+median=mediam is the middle value in the data set (after sorting)
+median=3
+
+data1=[1,2,3,4,5,6]
+
+median1 = float(data1[n//2])=we got 4
+    #getting the second number
+	median2 = float(data1[n//2 - 1])=we got 3
+
+
+
+there are two middle values(3,4)
+median=(3+4)/2
+
+data2=[10,40,10,10,10,40,30,50]
+mode is the most frequently occuring data j the data set
+mode=10
+
